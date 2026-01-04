@@ -1,4 +1,4 @@
----
+-2d--
 title: Effects
 hide:
   # - navigation
